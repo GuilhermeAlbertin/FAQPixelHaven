@@ -221,3 +221,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+.venv/
+.env
+*.db
+__pycache__/
+
+# Bancos de dados locais
+*.db
