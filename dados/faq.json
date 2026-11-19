@@ -1,0 +1,185 @@
+[
+    {
+        "id": "reembolso-prazo",
+        "categoria": "reembolso",
+        "pergunta": "Posso pedir reembolso de um jogo?",
+        "resposta": "Sim, em até 7 dias após a compra e com menos de 2 horas jogadas: Biblioteca > Jogo > Pedir reembolso.",
+        "palavras_chave": [
+            "reembolso",
+            "estorno",
+            "devolver",
+            "devolução",
+            "dinheiro de volta"
+        ]
+    },
+    {
+        "id": "reembolso-status",
+        "categoria": "reembolso",
+        "pergunta": "Quanto tempo leva para o reembolso cair?",
+        "resposta": "Depois de aprovado, o valor volta para a forma de pagamento original em até 5 dias úteis. Pagamentos em saldo da carteira são devolvidos na hora.",
+        "palavras_chave": [
+            "reembolso aprovado",
+            "quando cai",
+            "quanto tempo",
+            "status do reembolso",
+            "cair"
+        ]
+    },
+    {
+        "id": "pagamento-formas",
+        "categoria": "pagamento",
+        "pergunta": "Quais formas de pagamento vocês aceitam?",
+        "resposta": "Aceitamos cartão de crédito, Pix, boleto e saldo da carteira da loja.",
+        "palavras_chave": [
+            "pagamento",
+            "pagar",
+            "cartão",
+            "pix",
+            "boleto",
+            "parcelar"
+        ]
+    },
+    {
+        "id": "pagamento-pendente",
+        "categoria": "pagamento",
+        "pergunta": "Paguei, mas o jogo não apareceu na Biblioteca. E agora?",
+        "resposta": "Pagamentos por Pix e boleto podem levar até 1 hora para serem confirmados. Confira se está logado na conta certa e atualize a Biblioteca.",
+        "palavras_chave": [
+            "paguei",
+            "não apareceu",
+            "não aparece",
+            "sumiu",
+            "pagamento pendente",
+            "confirmação"
+        ]
+    },
+    {
+        "id": "carteira-saldo",
+        "categoria": "pagamento",
+        "pergunta": "Como adiciono saldo na carteira?",
+        "resposta": "Em Minha Conta > Carteira, clique em Adicionar saldo, escolha o valor e a forma de pagamento. O saldo vale para qualquer compra na loja.",
+        "palavras_chave": [
+            "saldo",
+            "carteira",
+            "créditos",
+            "adicionar saldo",
+            "recarregar"
+        ]
+    },
+    {
+        "id": "tecnico-instalar",
+        "categoria": "tecnico",
+        "pergunta": "Não consigo instalar o jogo. O que faço?",
+        "resposta": "Verifique se há espaço livre no disco e se o seu PC atende aos requisitos da página do jogo. Depois, em Biblioteca > Jogo > Instalar, tente outra pasta de instalação.",
+        "palavras_chave": [
+            "instalar",
+            "instalação",
+            "baixar",
+            "download",
+            "espaço no disco"
+        ]
+    },
+    {
+        "id": "tecnico-nao-abre",
+        "categoria": "tecnico",
+        "pergunta": "O jogo não abre ou fecha sozinho.",
+        "resposta": "Clique com o botão direito no jogo > Propriedades > Verificar arquivos. Depois, atualize o driver da placa de vídeo e reinicie o computador.",
+        "palavras_chave": [
+            "não abre",
+            "não inicia",
+            "fecha sozinho",
+            "travando",
+            "trava",
+            "crash"
+        ]
+    },
+    {
+        "id": "tecnico-requisitos",
+        "categoria": "tecnico",
+        "pergunta": "Meu computador roda esse jogo?",
+        "resposta": "Cada página de jogo mostra os requisitos mínimos e recomendados. Compare com a configuração do seu PC antes de comprar.",
+        "palavras_chave": [
+            "requisitos",
+            "rodar",
+            "roda",
+            "configuração",
+            "placa de vídeo",
+            "meu computador"
+        ]
+    },
+    {
+        "id": "tecnico-chave",
+        "categoria": "tecnico",
+        "pergunta": "Como ativo uma chave de jogo?",
+        "resposta": "Clique em Adicionar jogo > Ativar uma chave, digite o código e confirme. O jogo aparece na sua Biblioteca em seguida.",
+        "palavras_chave": [
+            "chave",
+            "ativar",
+            "ativação",
+            "resgatar",
+            "código do jogo"
+        ]
+    },
+    {
+        "id": "conta-senha",
+        "categoria": "conta",
+        "pergunta": "Esqueci minha senha. O que faço?",
+        "resposta": "Na tela de login, clique em Esqueci minha senha e informe seu e-mail. Enviaremos um link para você criar uma nova senha.",
+        "palavras_chave": [
+            "senha",
+            "esqueci",
+            "redefinir",
+            "recuperar",
+            "não consigo entrar"
+        ]
+    },
+    {
+        "id": "conta-excluir",
+        "categoria": "conta",
+        "pergunta": "Como excluo minha conta?",
+        "resposta": "Em Minha Conta > Privacidade, clique em Excluir conta. A exclusão é definitiva e você perde o acesso a todos os jogos comprados.",
+        "palavras_chave": [
+            "excluir conta",
+            "apagar conta",
+            "deletar conta",
+            "encerrar conta"
+        ]
+    },
+    {
+        "id": "jogos-presente",
+        "categoria": "jogos",
+        "pergunta": "Como dou um jogo de presente para um amigo?",
+        "resposta": "Na página do jogo, clique em Comprar como presente, escolha o amigo na sua lista e escreva uma mensagem. Ele recebe o jogo por e-mail.",
+        "palavras_chave": [
+            "presente",
+            "presentear",
+            "dar de presente",
+            "para um amigo"
+        ]
+    },
+    {
+        "id": "jogos-familia",
+        "categoria": "jogos",
+        "pergunta": "Posso compartilhar meus jogos com a família?",
+        "resposta": "Sim. Em Configurações > Família, convide até 5 pessoas para usar sua Biblioteca. Só uma pessoa da família joga por vez.",
+        "palavras_chave": [
+            "família",
+            "compartilhar",
+            "compartilhamento",
+            "emprestar jogo"
+        ]
+    },
+    {
+        "id": "jogos-prevenda",
+        "categoria": "jogos",
+        "pergunta": "Como funciona a pré-venda?",
+        "resposta": "Você paga antes do lançamento e o jogo é liberado na Biblioteca no dia em que sair. Dá para cancelar a pré-compra antes do lançamento.",
+        "palavras_chave": [
+            "pré-venda",
+            "pre venda",
+            "prevenda",
+            "pré-compra",
+            "lançamento"
+        ]
+    }
+]
